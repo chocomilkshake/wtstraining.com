@@ -1,0 +1,53 @@
+@media (min-width: 769px) {
+
+    /* Add your CSS rules here */
+    .username {
+
+        width: 400px;
+    }
+
+    .password {
+        width: 400px;
+    }
+
+    .login-form {
+        border: 1px solid #D3D3D3;
+        width: 600px;
+        margin: 10px 0px 20px 25%;
+        padding: 60px;
+    }
+
+
+
+    .login-link {
+        margin-top: 10px;
+        margin-left: 30px;
+    }
+
+    .forgot-pass {
+        margin-right: 180px;
+    }
+
+    .login-btn {
+        margin: 20px;
+    }
+
+
+}
+
+.login-link {
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.forgot-pass {
+    margin-right: 120px;
+}
+
+.login-btn {
+    margin: 20px;
+}
+
+.login-btn {
+    margin: 20px;
+}
