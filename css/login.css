@@ -32,6 +32,53 @@
         margin: 20px;
     }
 
+    .registation-contain {
+        border: 1px solid #D3D3D3;
+        width: 1100px;
+        padding: 20px;
+    }
+
+    .registation-contain h1 {
+        
+        /* Center the element horizontally */
+        text-align: center;
+        padding: 20px;
+    }
+    
+
+    .select-form {
+        width: 450px;
+        
+    }
+
+    .select-field{
+        margin-left: 30px;
+    }
+    
+    hr{
+        border-color: black;
+    }
+
+    .small-form{
+        width: 160px;
+    }
+
+    .address-form{
+        width: 460px;
+    }
+
+    .province-form{
+        width: 300px;
+    }
+
+    .street-form{
+        width: 800px;
+    }
+
+    .street-group{
+        margin-left: 10px;
+    }
+
 
 }
 
@@ -50,4 +97,8 @@
 
 .login-btn {
     margin: 20px;
+}
+
+hr{
+    border-color: black;
 }

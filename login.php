@@ -10,6 +10,7 @@ $websiteBody = new website_body();
 
 <?php $websiteBody->head(); ?>
 <?php $websiteBody->login_reg_css(); ?>
+<script src="js/registration.js"></script>
 
 <!--****** Head of the Website******-->
 
@@ -43,7 +44,7 @@ $websiteBody = new website_body();
         <!-- Add a margin top to create space between form and links -->
         <div class="login-link row">
             <a href="#" class="forgot-pass">Forgot Password</a> <!-- Add margin right to the first link -->
-            <a href="#">Register</a>
+            <a href="registration.php">Register</a>
         </div>
 
         
